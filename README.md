@@ -1,6 +1,6 @@
-# Playlolly Stripe X Tebex PoC
+# Stripe & Tebex PoC
 
-This is a full stack TypeScript PoC to test the feasibility of stripe checkout and product delivery via Tebex API for [Playlolly](https://playlolly.net).
+This is a full stack TypeScript PoC to test the feasibility of stripe checkout and product delivery via Tebex API.
 
 ## Test payment
 
